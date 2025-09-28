@@ -21,17 +21,7 @@ export default function About() {
               database up-to-date with the latest releases and trending content.
             </p>
 
-            <p>
-              This website is created using Next.js and{" "}
-              <a
-                href="https://go.clerk.com/fgJHKlt"
-                target="_blank"
-                className="text-teal-500 hover:underline"
-              >
-                Clerk
-              </a>
-              .
-            </p>
+            <p>This website is created using Next.js.</p>
 
             <p>
               We encourage you to rate and review the movies and shows you
